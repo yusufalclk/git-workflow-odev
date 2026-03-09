@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 32px;
+  line-height: 1.5;
+}
+
+header, main, footer {
+  padding: 16px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  margin-bottom: 16px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
