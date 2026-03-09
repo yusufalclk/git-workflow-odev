@@ -10,4 +10,4 @@ Yazilim Muhendisligi Odevi
 ## Proje
 Basit bir HTML/CSS web sitesi (workflow odaklı).
 
-Takım Satırı: Yusuf (Lead) - Cenk - Sena
+Takım Satırı: Yusuf - Cenk (Backend) - Sena (Frontend)
