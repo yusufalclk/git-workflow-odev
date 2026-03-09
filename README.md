@@ -16,3 +16,4 @@ Basit bir HTML/CSS web sitesi (workflow odaklı).
 
 Rebase deneyi satırı
 
+Takım Satırı: Yusuf (Lead) - Cenk - Sena
